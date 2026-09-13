@@ -1,0 +1,78 @@
+<svg width="850" height="170" viewBox="0 0 850 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+    .title { font-family: 'Press Start 2P', monospace; font-size: 10px; fill: #FFE600; }
+    .subtitle { font-family: 'Press Start 2P', monospace; font-size: 8px; fill: #8B949E; }
+    .cell { rx: 2px; ry: 2px; }
+    @keyframes crawl {
+      0% { transform: translate(0px, 0px); }
+      25% { transform: translate(120px, 0px); }
+      30% { transform: translate(120px, 24px); }
+      55% { transform: translate(320px, 24px); }
+      60% { transform: translate(320px, 48px); }
+      85% { transform: translate(600px, 48px); }
+      90% { transform: translate(600px, 12px); }
+      100% { transform: translate(750px, 12px); }
+    }
+    .snake-head {
+      animation: crawl 8s infinite alternate ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+    .pulse-dot { animation: pulse 2s infinite ease-in-out; }
+  </style>
+
+  <!-- Frame Background -->
+  <rect x="2" y="2" width="846" height="166" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- Pixel Corner Accents -->
+  <rect x="0" y="0" width="6" height="6" fill="#FFE600" />
+  <rect x="844" y="0" width="6" height="6" fill="#FFE600" />
+  <rect x="0" y="164" width="6" height="6" fill="#FFE600" />
+  <rect x="844" y="164" width="6" height="6" fill="#FFE600" />
+
+  <!-- Top Title Bar -->
+  <text x="25" y="25" class="title">RETRO ARCADE CONTRIBUTION MATRIX</text>
+  <text x="630" y="25" class="subtitle">EATING GREEN DOTS... 🟢</text>
+  <line x1="25" y1="35" x2="825" y2="35" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Contribution Grid Representation -->
+  <g transform="translate(30, 48)">
+    <!-- Simulated Grid Pattern -->
+    <pattern id="contrib-pattern" width="15" height="15" patternUnits="userSpaceOnUse">
+      <rect width="11" height="11" rx="2" fill="#161B22"/>
+    </pattern>
+    <rect width="780" height="95" fill="url(#contrib-pattern)"/>
+
+    <!-- Some Active Colored Dots -->
+    <!-- Gold / Neon Green Dots representing contributions -->
+    <rect x="45" y="15" width="11" height="11" rx="2" fill="#0E4429" />
+    <rect x="90" y="30" width="11" height="11" rx="2" fill="#006D32" />
+    <rect x="135" y="0" width="11" height="11" rx="2" fill="#26A641" />
+    <rect x="180" y="45" width="11" height="11" rx="2" fill="#39D353" class="pulse-dot" />
+    <rect x="240" y="15" width="11" height="11" rx="2" fill="#FFE600" class="pulse-dot" />
+    <rect x="300" y="30" width="11" height="11" rx="2" fill="#F5A623" />
+    <rect x="360" y="60" width="11" height="11" rx="2" fill="#39D353" />
+    <rect x="420" y="15" width="11" height="11" rx="2" fill="#26A641" />
+    <rect x="480" y="45" width="11" height="11" rx="2" fill="#FFE600" class="pulse-dot" />
+    <rect x="540" y="30" width="11" height="11" rx="2" fill="#006D32" />
+    <rect x="600" y="0" width="11" height="11" rx="2" fill="#39D353" />
+    <rect x="675" y="45" width="11" height="11" rx="2" fill="#FFE600" class="pulse-dot" />
+    <rect x="735" y="15" width="11" height="11" rx="2" fill="#26A641" />
+
+    <!-- Animated Snake -->
+    <g class="snake-head">
+      <!-- Snake Tail & Body -->
+      <rect x="0" y="15" width="11" height="11" rx="2" fill="#26A641"/>
+      <rect x="15" y="15" width="11" height="11" rx="2" fill="#39D353"/>
+      <rect x="30" y="15" width="11" height="11" rx="2" fill="#39D353"/>
+      <!-- Snake Head (Gold) -->
+      <rect x="45" y="15" width="11" height="11" rx="2" fill="#FFE600"/>
+      <!-- Snake Eyes -->
+      <rect x="52" y="17" width="2" height="2" fill="#0D1117"/>
+      <rect x="52" y="22" width="2" height="2" fill="#0D1117"/>
+    </g>
+  </g>
+</svg>

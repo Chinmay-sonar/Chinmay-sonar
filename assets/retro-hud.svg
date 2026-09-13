@@ -1,0 +1,72 @@
+<svg width="850" height="220" viewBox="0 0 850 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@500;700&amp;display=swap');
+    .pixel-title { font-family: 'Press Start 2P', monospace; font-size: 13px; fill: #FFE600; }
+    .pixel-sub { font-family: 'Press Start 2P', monospace; font-size: 9px; fill: #F5A623; }
+    .hud-label { font-family: 'Press Start 2P', monospace; font-size: 9px; fill: #8B949E; }
+    .hud-val { font-family: 'Fira Code', monospace; font-size: 11px; fill: #58A6FF; font-weight: 700; }
+    .bar-border { stroke: #30363D; stroke-width: 2; fill: #0D1117; }
+    .hp-fill { fill: #2ECC71; }
+    .mp-fill { fill: #FFE600; }
+    .quest-text { font-family: 'Fira Code', monospace; font-size: 11px; fill: #E6EDF3; font-weight: 600; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
+    .blinker { animation: blink 1.2s infinite; }
+    @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 2px #FFE600); } 50% { filter: drop-shadow(0 0 8px #F5A623); } }
+    .glowing { animation: glow 3s infinite; }
+  </style>
+
+  <!-- Main Arcade Frame -->
+  <rect x="2" y="2" width="846" height="216" rx="8" fill="#0D1117" stroke="#FFE600" stroke-width="2" class="glowing" />
+  
+  <!-- Pixel Corners -->
+  <rect x="0" y="0" width="8" height="8" fill="#FFE600" />
+  <rect x="842" y="0" width="8" height="8" fill="#FFE600" />
+  <rect x="0" y="212" width="8" height="8" fill="#FFE600" />
+  <rect x="842" y="212" width="8" height="8" fill="#FFE600" />
+
+  <!-- Inner Grid Accent Line -->
+  <line x1="20" y1="42" x2="830" y2="42" stroke="#21262D" stroke-dasharray="4 4" stroke-width="1.5" />
+  
+  <!-- Header Bar -->
+  <circle cx="32" cy="23" r="5" fill="#2ECC71" class="blinker" />
+  <text x="48" y="27" class="pixel-title">PLAYER: CHINMAY SONAR</text>
+  <text x="360" y="27" class="pixel-sub">[CLASS: AI SUPER AGENT // LVL 99]</text>
+  <text x="750" y="27" class="pixel-sub" fill="#2ECC71">ONLINE ⚡</text>
+
+  <!-- Left Column: Attributes -->
+  <!-- HP Bar -->
+  <text x="28" y="70" class="hud-label">HP (CREATIVE)</text>
+  <rect x="180" y="60" width="220" height="14" class="bar-border" rx="2" />
+  <rect x="182" y="62" width="216" height="10" class="hp-fill" rx="1" />
+  <text x="410" y="71" class="hud-val">100 / 100</text>
+
+  <!-- MP Bar -->
+  <text x="28" y="100" class="hud-label">MP (VIBECODE)</text>
+  <rect x="180" y="90" width="220" height="14" class="bar-border" rx="2" />
+  <rect x="182" y="92" width="216" height="10" class="mp-fill" rx="1" />
+  <text x="410" y="101" class="hud-val">∞ / MAX</text>
+
+  <!-- Perks -->
+  <text x="28" y="130" class="hud-label">SPECIAL PERK</text>
+  <text x="180" y="130" class="hud-val" fill="#4285F4">⚡ GOOGLE STUDENT AMBASSADOR (+100 AURA)</text>
+
+  <text x="28" y="158" class="hud-label">SUPERPOWER</text>
+  <text x="180" y="158" class="hud-val" fill="#A371F7">🌀 MULTI-AGENT SWARMS &amp; RAPID VIBECODING</text>
+
+  <text x="28" y="186" class="hud-label">BASE LOCATION</text>
+  <text x="180" y="186" class="hud-val" fill="#F5A623">📍 PUNE, INDIA (PLANET EARTH)</text>
+
+  <!-- Vertical Divider -->
+  <line x1="535" y1="52" x2="535" y2="200" stroke="#21262D" stroke-width="1.5" />
+
+  <!-- Right Column: Active Mission Radar -->
+  <text x="555" y="68" class="pixel-sub">🎯 ACTIVE QUEST</text>
+  <rect x="555" y="78" width="270" height="116" rx="6" fill="#161B22" stroke="#30363D" />
+  
+  <text x="570" y="104" class="quest-text">MISSION: Build Autonomous</text>
+  <text x="570" y="124" class="quest-text">Intelligent Agent Systems</text>
+  <text x="570" y="144" class="quest-text">&amp; Stunning UI/UX Products 🚀</text>
+
+  <circle cx="575" cy="172" r="4" fill="#FFE600" class="blinker" />
+  <text x="590" y="175" class="pixel-sub" font-size="8">STATUS: DEPLOYING BANGER TECH</text>
+</svg>
