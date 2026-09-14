@@ -131,14 +131,8 @@ Building autonomous multi-agent systems with clean architecture, scalable infere
 <div align="center">
   <p><i>Autonomous 3D isometric representation of my GitHub activity and commit density:</i></p>
   <a href="https://github.com/Chinmay-sonar">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Chinmay Sonar's 3D GitHub Contribution Skyline" width="100%" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="Chinmay Sonar's 3D GitHub Contribution Skyline" width="100%" />
   </a>
-  <br/><br/>
-  <details>
-    <summary><b>🔍 Toggle Monochrome Night View</b></summary>
-    <br/>
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="Monochrome 3D Contribution Skyline" width="100%" />
-  </details>
 </div>
 
 ---
