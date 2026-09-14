@@ -23,33 +23,21 @@ Building autonomous multi-agent systems with clean architecture, scalable infere
 
 ---
 
-## ✦ About Me
+## 🚀 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="68%" valign="top">
-      <p>
-        I am an <b>AI Systems Architect</b> and <b>Google Student Ambassador</b> obsessed with engineering intelligent, autonomous software. My work focuses on designing <b>multi-agent swarms, self-healing cognitive loops, and tool-augmented LLM pipelines</b> using Gemini, LangChain, and state-of-the-art agent frameworks.
-      </p>
-      <p>
-        Bridging the gap between artificial intelligence and world-class product experience, I craft production-ready interfaces with <b>Figma, React 19, TypeScript, and Next.js</b>.
-      </p>
-      <p>
-        🏆 <b>Hackathon Triumph:</b> Built <b>Codyseey Captionate</b>, winning the <b>AMD Developer Hackathon ACT II</b> by infusing real-time video subtitles with live emotional telemetry and low-latency ROCm acceleration.
-      </p>
-      <p>
-        🎓 <b>Google Student Ambassador:</b> Leading campus tech initiatives, mentoring student developers in applied generative AI, and fostering collaborative engineering culture.
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/chinmaysonar/" target="_blank">
-        <img src="./assets/astronaut_circular_badge.png" width="230" alt="Astronaut Mission Badge" style="border-radius: 50%;" />
-      </a>
-      <br/>
-      <sub><code>MISSION // ODYSSEY</code></sub>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/astronaut.png" width="220" alt="Developer Illustration"/>
+
+**Chinmay**, Here &mdash; Google Student Ambassador and AI Systems Architect obsessed with engineering intelligent, autonomous software.
+
+I specialize in architecting **multi-agent swarms, self-healing cognitive loops, and tool-augmented LLM pipelines** using Gemini, LangChain, and state-of-the-art agent frameworks.
+
+On the design front, I bring Figma-level UI/UX discipline into production with **React 19, TypeScript, Tailwind CSS, and Next.js**.
+
+Hackathon achievements include building **Codyseey Captionate** for the *AMD Developer Hackathon ACT II* (real-time video intelligence infused with live emotional telemetry and low-latency ROCm acceleration).
+
+My goal is simple: write clean code, design beautiful interfaces, and build autonomous systems that solve real-world problems.
+
+<br clear="right"/>
 
 ---
 
