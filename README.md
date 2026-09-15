@@ -118,10 +118,10 @@ My goal is simple: write clean code, design beautiful interfaces, and build auto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/Chinmay-sonar/The-Vadpadraka">The-Vadpadraka</a></h4>
-      <p><b>Spatial Architecture &amp; Cultural Heritage Discovery Engine</b><br/>
-      Next-generation interactive platform dedicated to preserving the cultural identity, historical narrative, and architectural treasures of Vadodara.</p>
-      <sub><code>Next.js</code> &bull; <code>Tailwind CSS</code> &bull; <code>Three.js</code> &bull; <code>UI/UX Systems</code></sub>
+      <h4>⚡ <a href="https://github.com/Chinmay-sonar/n8n-agent-workflows">n8n Media Extraction Pipeline</a></h4>
+      <p><b>Autonomous Web Media Scraper &amp; Zero-Tunneling Telegram Agent</b><br/>
+      Production-grade n8n workflow engine and long-polling bridge extracting high-res media, deduplicating assets, and delivering native batch albums to Telegram.</p>
+      <sub><code>n8n</code> &bull; <code>JavaScript</code> &bull; <code>Telegram Bot API</code> &bull; <code>Automation</code> &bull; <code>DOM Parser</code></sub>
     </td>
     <td width="50%" valign="top">
       <h4>🛰️ <a href="https://github.com/Chinmay-sonar/agent-telemetry-log">Agent Telemetry &amp; Streak Keeper</a></h4>
