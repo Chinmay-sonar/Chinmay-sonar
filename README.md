@@ -27,15 +27,16 @@ Building autonomous multi-agent systems with clean architecture, scalable infere
 
 <img align="right" src="./assets/astronaut.png" width="220" alt="Developer Illustration"/>
 
-**Chinmay**, Here &mdash; Google Student Ambassador and AI Systems Architect obsessed with engineering intelligent, autonomous software.
+Hey there! I’m **Chinmay** &mdash; a builder who firmly believes that if a piece of software doesn’t solve a real problem or looks like a 1998 spreadsheet, it simply shouldn’t exist.
 
-I specialize in architecting **multi-agent swarms, self-healing cognitive loops, and tool-augmented LLM pipelines** using Gemini, LangChain, and state-of-the-art agent frameworks.
+Here is the short version of what I do:
+- 🤖 **I build AI that actually works, not just chats.** Most people treat LLMs like a glorified search box. I build autonomous agents &mdash; think of them as digital co-pilots that can browse the web, digest hours of video, triage civic complaints, and do the heavy lifting in the background while you sleep.
+- 🎨 **I refuse to ship ugly interfaces.** Great engineering deserves great design. I craft frontends using **React 19, TypeScript, and modern motion physics** that feel fast, cinematic, and butter-smooth.
+- 🏆 **I love building under pressure.** Won the **AMD Developer Hackathon ACT II** with *Codyseey Captionate* (a real-time subtitle engine that tracks speaker emotion and tone), served as a **Google Student Ambassador**, and constantly turn wild ideas into working production apps.
 
-On the design front, I bring Figma-level UI/UX discipline into production with **React 19, TypeScript, Tailwind CSS, and Next.js**.
+When I’m not tracking down a rogue async bug at 2 AM or obsessing over 4 pixels of padding, I’m usually experimenting with new agent architectures or brainstorming the next build. 
 
-Hackathon achievements include building **Codyseey Captionate** for the *AMD Developer Hackathon ACT II* (real-time video intelligence infused with live emotional telemetry and low-latency ROCm acceleration).
-
-My goal is simple: write clean code, design beautiful interfaces, and build autonomous systems that solve real-world problems.
+If you’re building something ambitious, looking to collaborate, or just want to talk tech that genuinely moves the needle &mdash; my inbox is always open!
 
 <br clear="right"/>
 
