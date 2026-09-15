@@ -96,18 +96,38 @@ My goal is simple: write clean code, design beautiful interfaces, and build auto
       <sub><code>Python</code> &bull; <code>PyTorch</code> &bull; <code>AMD ROCm</code> &bull; <code>Gemini</code> &bull; <code>FastAPI</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🏙️ <a href="https://github.com/Chinmay-sonar/Orion-Connect">Orion-Connect</a></h4>
-      <p><b>Autonomous Civic Problem Reporting Platform</b><br/>
-      Smart civic engagement and municipal problem resolution engine engineered for Vadodara City with automated issue routing.</p>
-      <sub><code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Node.js</code> &bull; <code>Figma</code> &bull; <code>WebSockets</code></sub>
+      <h4>⚡ <a href="https://github.com/Chinmay-sonar/hackforge-command-system">HackForge Command System</a></h4>
+      <p><b>Autonomous Multi-Agent Hackathon Intelligence Engine</b><br/>
+      CLI-first multi-agent orchestration architecture utilizing specialized subroutines for web extraction, judging criteria evaluation, and tactical roadmaps.</p>
+      <sub><code>Node.js</code> &bull; <code>Groq LPU</code> &bull; <code>Gemini API</code> &bull; <code>Multi-Agent</code> &bull; <code>Zod</code></sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/Chinmay-sonar/instagram-second-brain-agent">Instagram Second Brain Agent</a></h4>
+      <p><b>Multimodal Knowledge Synthesizer &amp; Obsidian Pipeline</b><br/>
+      End-to-end autonomous agent capturing and converting technical reels, carousels, and media into structured, backlinked Obsidian Second Brain notes.</p>
+      <sub><code>Python</code> &bull; <code>Gemini 1.5</code> &bull; <code>NVIDIA NIM</code> &bull; <code>Telegram Bot</code> &bull; <code>Obsidian</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏙️ <a href="https://github.com/Chinmay-sonar/Orion-Connect">Orion-Connect</a></h4>
+      <p><b>Autonomous Civic Problem Reporting Platform</b><br/>
+      Smart civic engagement and municipal problem resolution engine engineered for Vadodara City with automated issue routing and real-time tracking.</p>
+      <sub><code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Node.js</code> &bull; <code>WebSockets</code> &bull; <code>Figma</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🏛️ <a href="https://github.com/Chinmay-sonar/The-Vadpadraka">The-Vadpadraka</a></h4>
       <p><b>Spatial Architecture &amp; Cultural Heritage Discovery Engine</b><br/>
       Next-generation interactive platform dedicated to preserving the cultural identity, historical narrative, and architectural treasures of Vadodara.</p>
       <sub><code>Next.js</code> &bull; <code>Tailwind CSS</code> &bull; <code>Three.js</code> &bull; <code>UI/UX Systems</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛰️ <a href="https://github.com/Chinmay-sonar/agent-telemetry-log">Agent Telemetry &amp; Streak Keeper</a></h4>
+      <p><b>Autonomous Scheduled Heartbeat &amp; Contribution Pipeline</b><br/>
+      Self-governing n8n workflow recording daily telemetry, system heartbeats, and cluster health metrics to maintain continuous developer activity.</p>
+      <sub><code>n8n</code> &bull; <code>GitHub REST API</code> &bull; <code>JavaScript</code> &bull; <code>Automation</code></sub>
     </td>
   </tr>
 </table>
