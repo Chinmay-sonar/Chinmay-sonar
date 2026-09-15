@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+<rect width="256" height="256" fill="#242938" rx="60"/>
+<defs>
+  <linearGradient id="agGrad1" x1="40" y1="40" x2="216" y2="216" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00E5FF"/>
+    <stop offset="0.5" stop-color="#4285F4"/>
+    <stop offset="1" stop-color="#7C4DFF"/>
+  </linearGradient>
+  <linearGradient id="agGrad2" x1="128" y1="50" x2="128" y2="206" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#00E5FF" stop-opacity="0.6"/>
+  </linearGradient>
+</defs>
+<!-- Outer Levitation Field -->
+<circle cx="128" cy="128" r="74" stroke="url(#agGrad1)" stroke-width="6" stroke-dasharray="16 10" stroke-linecap="round"/>
+<!-- Inverted Antigravity Quantum Prism -->
+<polygon points="128,46 200,108 172,198 84,198 56,108" fill="url(#agGrad1)" fill-opacity="0.25" stroke="url(#agGrad1)" stroke-width="8" stroke-linejoin="round"/>
+<!-- Core Levitation Crystal -->
+<polygon points="128,70 178,116 158,176 98,176 78,116" fill="url(#agGrad1)"/>
+<!-- Inner Energy Vertex -->
+<polygon points="128,88 156,128 128,168 100,128" fill="url(#agGrad2)"/>
+<circle cx="128" cy="128" r="9" fill="#FFFFFF"/>
+</svg>

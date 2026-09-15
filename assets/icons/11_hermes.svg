@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+<rect width="256" height="256" fill="#242938" rx="60"/>
+<defs>
+  <linearGradient id="hermesGrad" x1="30" y1="30" x2="226" y2="226" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFE082"/>
+    <stop offset="0.4" stop-color="#FFB300"/>
+    <stop offset="1" stop-color="#FF6F00"/>
+  </linearGradient>
+</defs>
+<!-- Left Wing -->
+<path d="M128 140 C110 110, 80 80, 42 78 C40 106, 62 136, 88 152 C70 152, 54 144, 46 136 C48 160, 72 178, 104 180 Z" fill="url(#hermesGrad)"/>
+<!-- Right Wing -->
+<path d="M128 140 C146 110, 176 80, 214 78 C216 106, 194 136, 168 152 C186 152, 202 144, 210 136 C208 160, 184 178, 152 180 Z" fill="url(#hermesGrad)"/>
+<!-- Center Agent Caduceus / Crest -->
+<path d="M128 54 L142 86 L128 104 L114 86 Z" fill="#FFE082"/>
+<!-- Helmet Dome -->
+<path d="M102 124 C102 96, 154 96, 154 124 L154 168 C154 190, 102 190, 102 168 Z" fill="url(#hermesGrad)"/>
+<!-- Face Visor Bar -->
+<rect x="110" y="138" width="36" height="14" rx="7" fill="#242938"/>
+<circle cx="128" cy="145" r="4" fill="#00E5FF"/>
+</svg>

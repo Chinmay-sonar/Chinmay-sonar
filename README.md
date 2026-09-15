@@ -50,30 +50,30 @@ If you’re building something ambitious, looking to collaborate, or just want t
       <h4>🧠 AI &amp; Agent Systems</h4>
       <ul>
         <li>Autonomous Agent Swarms</li>
-        <li>LangChain &amp; Tool-Calling LLMs</li>
-        <li>Gemini Multimodal API</li>
-        <li>PyTorch &amp; AMD ROCm</li>
-        <li>Emotion &amp; Sentiment Telemetry</li>
+        <li>Google Antigravity &amp; Hermes Agents</li>
+        <li>NVIDIA NIM &amp; ROCm Acceleration</li>
+        <li>Hugging Face &amp; Gemini API</li>
+        <li>n8n Workflow Automation</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🎨 UI/UX &amp; Design Systems</h4>
       <ul>
-        <li>Figma Component Architecture</li>
         <li>React 19 &amp; Next.js</li>
-        <li>TypeScript &amp; Tailwind CSS</li>
-        <li>Micro-Interactions &amp; Motion</li>
-        <li>Design Tokens &amp; Responsive Layouts</li>
+        <li>TypeScript Architecture</li>
+        <li>Framer &amp; Motion Physics</li>
+        <li>Micro-Interactions &amp; Responsive Layouts</li>
+        <li>Cinematic Dark-Slate Aesthetics</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🛠️ Systems &amp; Cloud</h4>
       <ul>
-        <li>FastAPI &amp; Python Services</li>
+        <li>Firebase &amp; Cloud Firestore</li>
         <li>Node.js &amp; WebSockets</li>
         <li>Docker &amp; Containerization</li>
         <li>Google Cloud Platform (GCP)</li>
-        <li>Git Workflows &amp; CI/CD</li>
+        <li>GitHub CI/CD &amp; Automations</li>
       </ul>
     </td>
   </tr>
@@ -81,7 +81,7 @@ If you’re building something ambitious, looking to collaborate, or just want t
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,tailwind,figma,docker,git,github,vscode,gcp" alt="Tech Stack Badges" />
+  <img src="./assets/tech_stack.svg" alt="Tech Stack Badges" width="100%" />
 </div>
 
 ---
