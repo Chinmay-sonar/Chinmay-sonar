@@ -119,10 +119,10 @@ If you’re building something ambitious, looking to collaborate, or just want t
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/Chinmay-sonar/n8n-agent-workflows">n8n Media Extraction Pipeline</a></h4>
-      <p><b>Autonomous Web Media Scraper &amp; Zero-Tunneling Telegram Agent</b><br/>
-      Production-grade n8n workflow engine and long-polling bridge extracting high-res media, deduplicating assets, and delivering native batch albums to Telegram.</p>
-      <sub><code>n8n</code> &bull; <code>JavaScript</code> &bull; <code>Telegram Bot API</code> &bull; <code>Automation</code> &bull; <code>DOM Parser</code></sub>
+      <h4>🛰️ <a href="https://github.com/Chinmay-sonar/codyseey-media-bot">Codyseey Media Bot</a></h4>
+      <p><b>Autonomous 24/7 Cloud High-Res Media Extractor</b><br/>
+      Reverse-resolution extraction engine bypassing CMS downscaling limits across Drupal, Shopify, Squarespace, Webflow, and Next.js to deliver uncompressed photo albums directly to Telegram.</p>
+      <sub><code>Node.js</code> &bull; <code>Telegram Bot API</code> &bull; <code>Reverse Resolution</code> &bull; <code>24/7 Cloud</code> &bull; <code>Render</code></sub>
     </td>
     <td width="50%" valign="top">
       <h4>🛰️ <a href="https://github.com/Chinmay-sonar/agent-telemetry-log">Agent Telemetry &amp; Streak Keeper</a></h4>
