@@ -1,0 +1,36 @@
+name: Daily Streak Sentinel
+
+on:
+  schedule:
+    - cron: "15 2 * * *" # Every day at 07:45 AM IST (02:15 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keep-streak-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Daily Pulse Telemetry
+        run: |
+          mkdir -p daily-pulse
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M:%S UTC")
+          echo "# Activity Pulse" > daily-pulse/activity.log
+          echo "- Last Active Date: $DATE" >> daily-pulse/activity.log
+          echo "- Timestamp: $TIME" >> daily-pulse/activity.log
+          echo "- Status: Streak Active 🟢" >> daily-pulse/activity.log
+          echo "- Runner: GitHub Actions Cloud Sentinel" >> daily-pulse/activity.log
+
+      - name: Commit & Push with Verified Email
+        run: |
+          git config user.name "Chinmay Sonar"
+          git config user.email "chinmaysonarofficial@gmail.com"
+          git add daily-pulse/activity.log
+          if git commit -m "chore(pulse): maintain daily activity streak [skip ci]"; then
+            git push origin main
+          fi
