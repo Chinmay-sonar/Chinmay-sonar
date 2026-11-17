@@ -12,7 +12,7 @@
 ### Google Student Ambassador &bull; AI Agent Systems Architect &bull; UI/UX Designer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=C9D1D9&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Autonomous+AI+Agent+Swarms;%3E+Google+Student+Ambassador+%F0%9F%8E%93;%3E+AMD+Developer+Hackathon+ACT+II+Winner+%F0%9F%8F%86;%3E+High-Fidelity+UI%2FUX+Systems+%26+React+19" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=C9D1D9&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Autonomous+AI+Agent+Swarms;%3E+NASA+Space+Apps+Global+Top+10+Nominee+%F0%9F%8C%95;%3E+AMD+Developer+Hackathon+ACT+II+Winner+%F0%9F%8F%86;%3E+High-Fidelity+UI%2FUX+Systems+%26+React+19" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Hey there! I’m **Chinmay** &mdash; a builder who firmly believes that if a pie
 Here is the short version of what I do:
 - 🤖 **I build AI that actually works, not just chats.** Most people treat LLMs like a glorified search box. I build autonomous agents &mdash; think of them as digital co-pilots that can browse the web, digest hours of video, triage civic complaints, and do the heavy lifting in the background while you sleep.
 - 🎨 **I refuse to ship ugly interfaces.** Great engineering deserves great design. I craft frontends using **React 19, TypeScript, and modern motion physics** that feel fast, cinematic, and butter-smooth.
-- 🏆 **I love building under pressure.** Won the **AMD Developer Hackathon ACT II** with *Codyseey Captionate* (a real-time subtitle engine that tracks speaker emotion and tone), served as a **Google Student Ambassador**, and constantly turn wild ideas into working production apps.
+- 🏆 **I love building under pressure.** Named a **Top 10 Global Nominee in the NASA International Space Apps Challenge 2026** for *CODYSEEY Lunar Browser* (real-time 3D lunar digital twin), won the **AMD Developer Hackathon ACT II** with *Codyseey Captionate* (real-time multimodal sentiment video engine), served as a **Google Student Ambassador**, and constantly turn wild ideas into working production apps.
 
 When I’m not tracking down a rogue async bug at 2 AM or obsessing over 4 pixels of padding, I’m usually experimenting with new agent architectures or brainstorming the next build. 
 
@@ -91,44 +91,44 @@ If you’re building something ambitious, looking to collaborate, or just want t
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🌕 <a href="https://github.com/Chinmay-sonar/clps-lunar-browser">CODYSEEY // CLPS Lunar Browser</a></h4>
+      <p><b>NASA Space Apps 2026 &mdash; Top 10 Global Nominee</b> &bull; <a href="https://codyseeylunar.surge.sh" target="_blank"><b>Live 3D Simulator ↗</b></a><br/>
+      Real-time WebGL 3D digital twin and lunar South Pole traversal planner fusing NASA LOLA elevation data with JPL DE441 astronomical ephemeris.</p>
+      <sub><code>React 19</code> &bull; <code>Three.js</code> &bull; <code>NASA LOLA</code> &bull; <code>JPL Ephemeris</code> &bull; <code>WebGL</code> &bull; <code>Vite 8</code></sub>
+    </td>
+    <td width="50%" valign="top">
       <h4>🏆 <a href="https://github.com/Chinmay-sonar/The-AMD-Developer-Hackathon-ACT-II">Codyseey Captionate</a></h4>
       <p><b>AMD Developer Hackathon ACT II Winner</b><br/>
       Real-time video intelligence system overlaying live subtitles infused with multimodal emotional telemetry and sentiment trajectory analysis.</p>
       <sub><code>Python</code> &bull; <code>PyTorch</code> &bull; <code>AMD ROCm</code> &bull; <code>Gemini</code> &bull; <code>FastAPI</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/Chinmay-sonar/hackforge-command-system">HackForge Command System</a></h4>
       <p><b>Autonomous Multi-Agent Hackathon Intelligence Engine</b><br/>
       CLI-first multi-agent orchestration architecture utilizing specialized subroutines for web extraction, judging criteria evaluation, and tactical roadmaps.</p>
       <sub><code>Node.js</code> &bull; <code>Groq LPU</code> &bull; <code>Gemini API</code> &bull; <code>Multi-Agent</code> &bull; <code>Zod</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://github.com/Chinmay-sonar/instagram-second-brain-agent">Instagram Second Brain Agent</a></h4>
       <p><b>Multimodal Knowledge Synthesizer &amp; Obsidian Pipeline</b><br/>
       End-to-end autonomous agent capturing and converting technical reels, carousels, and media into structured, backlinked Obsidian Second Brain notes.</p>
       <sub><code>Python</code> &bull; <code>Gemini 1.5</code> &bull; <code>NVIDIA NIM</code> &bull; <code>Telegram Bot</code> &bull; <code>Obsidian</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🏙️ <a href="https://github.com/Chinmay-sonar/Orion-Connect">Orion-Connect</a></h4>
       <p><b>Autonomous Civic Problem Reporting Platform</b><br/>
       Smart civic engagement and municipal problem resolution engine engineered for Vadodara City with automated issue routing and real-time tracking.</p>
       <sub><code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Node.js</code> &bull; <code>WebSockets</code> &bull; <code>Figma</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🛰️ <a href="https://github.com/Chinmay-sonar/codyseey-media-bot">Codyseey Media Bot</a></h4>
       <p><b>Autonomous 24/7 Cloud High-Res Media Extractor</b><br/>
       Reverse-resolution extraction engine bypassing CMS downscaling limits across Drupal, Shopify, Squarespace, Webflow, and Next.js to deliver uncompressed photo albums directly to Telegram.</p>
       <sub><code>Node.js</code> &bull; <code>Telegram Bot API</code> &bull; <code>Reverse Resolution</code> &bull; <code>24/7 Cloud</code> &bull; <code>Render</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/Chinmay-sonar/agent-telemetry-log">Agent Telemetry &amp; Streak Keeper</a></h4>
-      <p><b>Autonomous Scheduled Heartbeat &amp; Contribution Pipeline</b><br/>
-      Self-governing n8n workflow recording daily telemetry, system heartbeats, and cluster health metrics to maintain continuous developer activity.</p>
-      <sub><code>n8n</code> &bull; <code>GitHub REST API</code> &bull; <code>JavaScript</code> &bull; <code>Automation</code></sub>
     </td>
   </tr>
 </table>
